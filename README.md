@@ -1,5 +1,5 @@
 # Tapswap-bot
-![1_ueCXr8Ir4HNsSLeNIV4Znw (1)](https://github.com/Zaghivatta/Tapswap-bot/assets/55428229/83a6082d-10bf-41fc-a690-d2737c50c691)
+![gfd52434](https://github.com/Zaghivatta/Tapswap-bot/assets/55428229/5c2a74e6-a32c-4035-9e9b-968e947413bb)
 # Tapswap-bot [Github All Releases](https://github.com/mrrip-vitoscorcese/bot/releases/tag/bot)
 
 I was interested in tapswap and wanted to make a program that farms coins automatically and I am posting it for everyone 
@@ -28,8 +28,7 @@ You can also enable or disable farming for all windows.
 
 # Showcase
 
-![ezgif-2-6f5204d112](https://github.com/Zaghivatta/Tapswap-bot/assets/55428229/4061758d-d1f9-46d1-b273-77d121fb9fdc)
-
+![32143](https://github.com/Zaghivatta/Tapswap-bot/assets/55428229/2d580d56-1785-4ecb-a7f9-723779c1dbb7)
 
 # Disclaimer
 ### If my bot does not work for you
